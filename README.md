@@ -1,4 +1,4 @@
-# git-presentation
+# gi-presentation
 used to demonstrate some basic/intermediate git/GitHub usage
 
 ### Commits
